@@ -5,28 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d24a9df7-10e0-455a-afa0-f2564f542c7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-spring-framework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/AppGamingBasicJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/LearnSpringFrameworkApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/game/GameRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/game/GamingConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/game/MarioGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/game/PacmanGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/game/SuperContraGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/test/java/com/in28minutes/learnspringframework/LearnSpringFrameworkApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/BusinessCalculationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/BusinessCalculationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/MongoDbDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/MongoDbDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/MySqlDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/MySqlDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/RealWorldSpringLauncherApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-spring-framework-02/learn-spring-framework-01/src/main/java/com/in28minutes/learnspringframework/examples/c1/RealWorldSpringLauncherApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/82107/IdeaProjects/learn-spring-framework-01"
+    "last_opened_file_path": "C:/Users/82107/IdeaProjects/learn-spring-boot/learn-spring-boot"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

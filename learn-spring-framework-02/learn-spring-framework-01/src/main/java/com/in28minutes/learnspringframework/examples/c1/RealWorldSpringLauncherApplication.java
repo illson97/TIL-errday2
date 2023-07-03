@@ -17,7 +17,6 @@ public class RealWorldSpringLauncherApplication {
 
             System.out.println(context.getBean(BusinessCalculationService.class).findMax());
 
-
         };
     }
 }
