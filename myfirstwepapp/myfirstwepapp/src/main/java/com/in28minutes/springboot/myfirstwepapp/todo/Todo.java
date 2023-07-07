@@ -1,5 +1,9 @@
 package com.in28minutes.springboot.myfirstwepapp.todo;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 
 import java.time.LocalDate;
@@ -8,14 +12,12 @@ import java.time.LocalDate;
 //Database ( MYSQL, oracle...)
 //List of todos => Database ( H2, MySQL)
 
+@Entity
 public class Todo {
-    private int id;
-    private String username;
 
-    @Size(min=10, message="Enter at least 10 Characters")
-    private String description;
-    private LocalDate targetDate;
-    private boolean done;
+    public Todo() {
+
+    }
 
     public Todo(int id, String username, String description, LocalDate targetDate, boolean done) {
         this.id = id;
@@ -24,6 +26,19 @@ public class Todo {
         this.targetDate = targetDate;
         this.done = done;
     }
+
+    @Id
+    @GeneratedValue
+    private int id;
+
+    private String username;
+
+    @Size(min=10, message="Enter at least 10 Characters")
+    private String description;
+    private LocalDate targetDate;
+    private boolean done;
+
+
 
     public int getId() {
         return id;
