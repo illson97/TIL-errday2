@@ -1,43 +1,33 @@
 import './App.css';
-import { Component } from 'react';
+import Counter from './components/counter/Counter';
 
 function App() {
   return (
     <div className="App">
-      <FirstComponent></FirstComponent>
-      <SecondComponent></SecondComponent>
-      <ThirdComponent/>
-      <FourthComponent/>
+      <Counter/>
     </div>
   );
 }
 
-function FirstComponent() {
-    return (
-      <div className="FirstComponent">First Component</div>
-    )
-}
+// function PlayingWithProps(properties){
+//   console.log(properties)
+//   console.log(properties.property1)
+//   console.log(properties.property2)
+//   return (
+//     <div>Props</div>
+//   )
+// }
 
-function SecondComponent() {
-  return (
-    <div className="SecondComponent">Second Component</div>
-  )
-}
+// function PlayingWithProps({property1, property2}){
 
-class ThirdComponent extends Component{
-  render() {
-    return (
-      <div className="ThirdComponent">Third Component</div>
-    )
-  }
-}
+//   console.log(property1)
+//   console.log(property2)
+//   return (
+//     <div>Props</div>
+//   )
+// }
 
-class FourthComponent extends Component{
-  render() {
-    return (
-      <div className="FourthComponent">Fourth Component</div>
-    )
-  }
-}
+
+
 
 export default App;
