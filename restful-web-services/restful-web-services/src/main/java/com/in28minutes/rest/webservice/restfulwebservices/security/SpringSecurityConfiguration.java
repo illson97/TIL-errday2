@@ -20,7 +20,7 @@ public class SpringSecurityConfiguration {
         http.httpBasic(withDefaults());
 
 //		3) CSRF -> POST, PUT
-        http.csrf().disable();
+//        http.csrf().disable();
 
 
         return http.build();
