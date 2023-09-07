@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.Map;
 
 @Slf4j
-@Controller
+//@Controller
 public class RequestParamController {
 
     @RequestMapping("/request-param-v1")
